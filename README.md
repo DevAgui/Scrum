@@ -8,3 +8,4 @@ Aplicación Scrum
 ### Álvaro Linero
 ### Daniel García
 ### Sergio Dominguez
+### Francisco Sicilia
