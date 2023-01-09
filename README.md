@@ -7,3 +7,4 @@ Aplicación Scrum
 ### Diego Aguilera
 ### Álvaro Linero
 ### Daniel García
+### Sergio Dominguez
