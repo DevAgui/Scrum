@@ -3,4 +3,6 @@ Aplicación Scrum
 
 ## Autores
 ### Javier Moreno
-## Sergio Dominguez Gomez
+### Adrián Egea
+### Diego Aguilera
+### Álvaro Linero
