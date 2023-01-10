@@ -1,6 +1,6 @@
 # Scrum
 Aplicación Scrum
-
+# Cambios en rama Main
 ## Autores
 ### Javier Moreno
 ### Adrián Egea
